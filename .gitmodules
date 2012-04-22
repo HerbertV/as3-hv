@@ -1,0 +1,3 @@
+[submodule "as3/hv/core"]
+	path = as3/hv/core
+	url = git@github.com:HerbertV/RAW-as3-hv-core.git

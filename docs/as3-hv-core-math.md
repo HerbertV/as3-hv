@@ -16,42 +16,42 @@ For detailed info see the comments inside the class file.
 
 #### Static functions:
 
-- trunc(
+-	trunc(
 				num:Number, 
 				percision:uint
 			):Number
-- generateRangedInt(
+-	generateRangedInt(
 				min:int, 
 				max:int=-1
 			):int
-- generateRandomSignedMultiplier():int
+-	generateRandomSignedMultiplier():int
 
 #### Constructor:
 
- * TrueRandom(
+-	TrueRandom(
 				isSeeded:Boolean=false,
 				cacheSizeOrSeed:uint=10
 			)
 
 #### Public functions:
 
-- setupGenerator(
+-	setupGenerator(
 				generator:Function,
 				min:Number,
 				max:Number
 			):void
-- fillUpCache(e:Event):void
-- nextCachedNumber():Number
-- getInitialSeed():uint
-- nextSeededInt():uint
-- nextSeededNumber(
+-	fillUpCache(e:Event):void
+-	nextCachedNumber():Number
+-	getInitialSeed():uint
+-	nextSeededInt():uint
+-	nextSeededNumber(
 				percision:uint=0
 			):Number
-- nextRangedSeededInt(
+-	nextRangedSeededInt(
 				min:int, 
 				max:int=-1
 			):uint
-- nextRangedSeededNumber(
+-	nextRangedSeededNumber(
 				min:Number, 
 				max:Number,
 				percision:uint=0

@@ -28,7 +28,7 @@
 ## Class as3.hv.shapes.EdgedRectangle
 
 ### Description:
-![Edged Rectangle Sample](https://github.com/HerbertV/as3-hv/blob/master/images/EdgeRectangle.png)
+![Edged Rectangle Sample](https://github.com/HerbertV/as3-hv/blob/master/images/EdgeRectangle.png?raw=true)
 
 ### Class Overview:
 
@@ -55,7 +55,7 @@
 ## Class as3.hv.shapes.PenroseTriangle
 
 ### Description:
-![Penrose Triangle Sample](https://github.com/HerbertV/as3-hv/blob/master/images/Penrosetriangle.png)
+![Penrose Triangle Sample](https://github.com/HerbertV/as3-hv/blob/master/images/Penrosetriangle.png?raw=true)
 
 
 ### Class Overview:

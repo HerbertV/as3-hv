@@ -1,7 +1,7 @@
 # as3.hv.core.math.*
 
 -----------------------------------
-## Class as3.hv.math.TrueRandom
+## Class as3.hv.core.math.TrueRandom
 
 ### Description:
 A class for solving the basic problems with random Numbers in as3.

@@ -4,7 +4,7 @@
 *Contains drawing helper Classes for different shapes*
 
 -----------------------------------
-## Class as3.hv.shapes.DebugShapes
+## Class as3.hv.core.shapes.DebugShapes
 
 ### Description:
 
@@ -25,7 +25,7 @@
 
 
 -----------------------------------
-## Class as3.hv.shapes.EdgedRectangle
+## Class as3.hv.core.shapes.EdgedRectangle
 
 ### Description:
 ![Edged Rectangle Sample](https://github.com/HerbertV/as3-hv/blob/master/images/EdgeRectangle.png?raw=true)
@@ -52,7 +52,7 @@
 
 
 -----------------------------------
-## Class as3.hv.shapes.PenroseTriangle
+## Class as3.hv.core.shapes.PenroseTriangle
 
 ### Description:
 ![Penrose Triangle Sample](https://github.com/HerbertV/as3-hv/blob/master/images/Penrosetriangle.png?raw=true)

@@ -20,4 +20,4 @@ Actionscript 3 classes with Examples and Documentation.
 
 ## Example Index:
 -	CS3_TrueRandomExample.fla (Flash CS3)
-- 	CS3_ConsoleExample.fla (Flash CS3) TODO
+- 	CS3_ConsoleExample.fla (Flash CS3)

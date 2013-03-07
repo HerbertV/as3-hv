@@ -3,8 +3,6 @@
 -----------------------------------
 *Herbert's ActionScript 3 Lib*
 
-Work in progress... so stay tuned ;)
-
 Actionscript 3 classes with Examples and Documentation.
 
 -----------------------------------
@@ -13,7 +11,7 @@ Actionscript 3 classes with Examples and Documentation.
 
 -	[as3.hv.core.console](https://github.com/HerbertV/as3-hv/blob/master/docs/as3-hv-core-console.md) 
 -	[as3.hv.core.math](https://github.com/HerbertV/as3-hv/blob/master/docs/as3-hv-core-math.md)
--	as3.hv.core.net (Revision in progress)
+-	[as3.hv.core.net](https://github.com/HerbertV/as3-hv/blob/master/docs/as3-hv-core-net.md)
 -	[as3.hv.core.shapes](https://github.com/HerbertV/as3-hv/blob/master/docs/as3-hv-core-shapes.md)
 -	as3.hv.core.utils
 

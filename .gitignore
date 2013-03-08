@@ -1,4 +1,12 @@
+TODO.txt
+
 # Compiled source #
 ###################
 *.swf
-TODO.txt
+*.html
+*.js
+
+# FlashDevelop #
+################
+*.as3proj
+obj/
